@@ -202,16 +202,16 @@ export default function LandingPage() {
       useInvertedBackground={false}
       members={[
         {
-          id: "1",          name: "Ahmet Yılmaz",          role: "Kombi Uzmanı",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-male-car-mechanic-car-repair-shop_23-2150367539.jpg",          imageAlt: "Ahmet Yılmaz, Kombi Uzmanı"},
+          id: "1",          name: "Gelişmiş Teşhis Uzmanı",          role: "3D Klima Teknisyeni",          imageSrc: "http://img.b2bpic.net/free-photo/engineer-holding-tablet-working-with-air-conditioner-system_482257-22687.jpg",          imageAlt: "Tablet ile çalışan klima teknisyeni"},
         {
-          id: "2",          name: "Ayşe Demir",          role: "Klima Teknikeri",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-happy-manager-working-call-centre_1098-18765.jpg",          imageAlt: "Ayşe Demir, Klima Teknikeri"},
+          id: "2",          name: "Hassas Montaj Uzmanı",          role: "3D Klima Teknisyeni",          imageSrc: "http://img.b2bpic.net/free-photo/worker-installing-air-conditioner-wall_23-2147775549.jpg",          imageAlt: "Klima monte eden teknisyen"},
         {
-          id: "3",          name: "Mehmet Kaya",          role: "Isıtma Sistemleri Uzmanı",          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-using-touchscreen-device_1170-1578.jpg",          imageAlt: "Mehmet Kaya, Isıtma Sistemleri Uzmanı"},
+          id: "3",          name: "Sistem Optimizasyon Lideri",          role: "3D Klima Teknisyeni",          imageSrc: "http://img.b2bpic.net/free-photo/young-male-repairer-working-air-conditioner-white-wall_23-2147775560.jpg",          imageAlt: "Klima tamir eden genç teknisyen"},
         {
-          id: "4",          name: "Zeynep Çelik",          role: "Müşteri İlişkileri",          imageSrc: "http://img.b2bpic.net/free-photo/repairman-reporting-found-freon-leaks_482257-92670.jpg",          imageAlt: "Zeynep Çelik, Müşteri İlişkileri"},
+          id: "4",          name: "Akıllı Çözümler Mimarı",          role: "3D Klima Teknisyeni",          imageSrc: "http://img.b2bpic.net/free-photo/close-up-female-technician-controlling-air-conditioner-unit_482257-81788.jpg",          imageAlt: "Klima kontrol eden kadın teknisyen"},
       ]}
-      title="Sektörün En İyi Uzmanlarıyla Tanışın"
-      description="Ekibimiz, kombi ve klima teknolojileri konusunda sürekli eğitim alan, sertifikalı ve deneyimli profesyonellerden oluşmaktadır. Her bir personelimiz, en yüksek kalitede hizmet sunmak için kendini adamıştır ve güler yüzlü hizmet anlayışıyla fark yaratır."
+      title="3D Klima Teknisyenlerimizle Tanışın: Geleceğin Çözümleri Bugün"
+      description="Ekibimiz, en son 3D modelleme ve dijital teşhis araçlarını kullanarak klima sistemlerinizi analiz eden ve optimize eden sertifikalı uzmanlardan oluşmaktadır. Yenilikçi yaklaşımlarımızla, en karmaşık sorunlara dahi kalıcı ve verimli çözümler sunuyoruz."
     />
   </div>
 
